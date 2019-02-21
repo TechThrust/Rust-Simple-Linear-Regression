@@ -1,0 +1,7 @@
+[package]
+name = "simple_regression"
+version = "0.1.0"
+authors = ["pokeh"]
+edition = "2018"
+
+[dependencies]
